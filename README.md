@@ -1,0 +1,2 @@
+# JSHappy
+Javascript exercise
